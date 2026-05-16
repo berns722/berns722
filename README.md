@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi, I'm Bernardo
+
+Data Science & ML practitioner based in Guadalajara, Mexico.
+Building a structured ML lab that produces reproducible, 
+production-style projects.
+
+**Current focus:**
+- Machine learning pipelines (scikit-learn, Python)
+- Exploratory data analysis and visualization
+- SQL analytics and Power BI dashboards
+
+**Projects:** see pinned repositories below
 
 <!--
 **berns722/berns722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
