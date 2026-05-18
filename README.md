@@ -9,6 +9,19 @@ production-style projects.
 - Exploratory data analysis and visualization
 - SQL analytics and Power BI dashboards
 
+**Now learning:**
+- Statistical Learning (ISLP — James et al.)
+- Building toward ensemble methods and model deployment
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=berns722&show_icons=true&theme=default&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=berns722&layout=compact)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
 **Projects:** see pinned repositories below
 
 <!--
