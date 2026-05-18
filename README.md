@@ -13,8 +13,7 @@ production-style projects.
 - Statistical Learning (ISLP — James et al.)
 - Building toward ensemble methods and model deployment
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=berns722&show_icons=true&theme=default&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=berns722&layout=compact)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=berns722&theme=default)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
